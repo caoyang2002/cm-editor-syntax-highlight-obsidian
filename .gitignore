@@ -7,8 +7,8 @@ node_modules
 package-lock.json
 
 # build
-main.js
-styles.css
+# main.js
+# styles.css
 *.js.map
 
 # misc codemirror files
